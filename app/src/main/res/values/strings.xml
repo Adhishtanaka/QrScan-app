@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QrScan</string>
+    <string name="gallery">Gallery</string>
+    <string name="history">history</string>
+    <string name="brand">Made by Adhishtanaka</string>
+    <string name="button_text">History</string>
+    <string name="search_text">Search</string>
+    <string name="flash_text">Flash</string>
+</resources>
